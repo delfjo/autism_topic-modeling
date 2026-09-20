@@ -1,0 +1,24 @@
+topic,label,count_autism,count_autisminwomen,share_autism,share_autisminwomen,share_diff,log_ratio
+2,"favorite, love, plushies, special, favourite, cute, art, animal, room, characters",190,58,0.039525691699604744,0.01288316303864949,0.026642528660955254,1.6172283876042883
+1,"song, music, songs, listen, listening, hyperfixation, repeat, rock, favorite, play",102,59,0.021219055543998337,0.01310528653931586,0.008113769004682476,0.6951694540961241
+7,"stim, stims, stimming, feet, hands, forth, touch, arm, does, muscles",106,64,0.022051175369253172,0.014215904042647711,0.007835271326605461,0.6333136502450507
+6,"food, eat, foods, chicken, eating, cheese, safe, diet, eggs, taste",109,70,0.0226752652381943,0.015548645046645935,0.007126620191548366,0.5443014010027389
+14,"loud, sound, noises, noise, hear, sounds, alarm, music, room, door",83,54,0.01726648637403786,0.011994669035984007,0.005271817338053854,0.525544461713187
+18,"fidget, toy, recommendations, toys, cube, chewing, stim, chew, alternatives, sensory",46,21,0.009569377990430622,0.0046645935139937806,0.004904784476436841,1.0365152871604901
+12,"special, interests, special interests, love, movies, new special, hyperfixations, book, boring, game",66,42,0.013729977116704805,0.009329187027987561,0.0044007900887172435,0.5574563874775369
+21,"ai, chatgpt, words, communication, text, human, language, reading, read, reply",49,36,0.01019346785937175,0.007996446023989337,0.002197021835382413,0.3501752146254408
+5,"headphones, noise, ear, earplugs, ears, noise cancelling, cancelling, noise canceling, canceling, cancelling headphones",56,45,0.011649677553567713,0.009995557529986673,0.0016541200235810401,0.22091058723668075
+10,"driving, drive, traffic, road, drivers, car, parking, credit, travel, tax",33,29,0.006864988558352402,0.006441581519324745,0.0004234070390276576,0.09182856623465972
+4,"teeth, shower, water, brushing, brush, showers, clean, hands, mouth, dry",77,73,0.016018306636155607,0.016215015548645045,-0.00019670891248943848,-0.017607672328074607
+15,"skin, lotion, sensory, sticky, face, makeup, hands, dry, sensory friendly, recommendations",23,25,0.004784688995215311,0.005553087516659262,-0.0007683985214439514,-0.21482326577602956
+19,"hot, heat, temperature, cold, weather, sweating, summer, ice, sun, blanket",25,29,0.00520074890784273,0.006441581519324745,-0.001240832611482015,-0.30864212588555573
+8,"christmas, mother day, today, flair, day, sub, mother, film, happy, post",85,86,0.01768254628666528,0.019102621057307864,-0.0014200747706425848,-0.11143850033843108
+16,"smell, smells, nose, smelling, products, taste, perfume, strong, cheese, stinks",24,29,0.00499271895152902,0.006441581519324745,-0.001448862567795725,-0.36752425881565853
+9,"hair, cut, sensory, sensory issues, hairs, length, short, grow, touching, fingernails",23,33,0.004784688995215311,0.007330075521990226,-0.0025453865267749155,-0.615298223380237
+17,"overstimulated, overstimulation, gym, exercise, body, exercising, resting, exhausted, week, hours",38,58,0.007905138339920948,0.01288316303864949,-0.004978024698728541,-0.704553717625427
+-1,"theory, phone, active, best, doctor, dae, en, questions, duty, use",204,220,0.04243811108799667,0.04886717014660151,-0.006429059058604837,-0.20350064585214836
+3,"wear, clothes, wearing, clothing, dress, shirt, tight, pants, shoes, sensory",52,85,0.010817557728312877,0.018880497556641493,-0.008062939828328616,-0.8034650146804496
+20,"said, bus, didn, work, told, asked, went, did, today, boss",112,142,0.023299355107135426,0.03154153709462461,-0.008242181987489182,-0.43694676430730217
+0,"autism, autistic, people, feel, know, don, ve, life, things, time",3203,3040,0.6663199500728105,0.6752554420257664,-0.008935491952955843,-0.01921824358889435
+13,"vote, guy, wrong, legal, girlfriend, wtf, saying, literally, happened, information",52,90,0.010817557728312877,0.019991115059973346,-0.009173557331660469,-0.8859229299844222
+11,"wedding, party, birthday, invite, friend, friends, invited, plans, group, trip",49,114,0.01019346785937175,0.025322079075966238,-0.015128611216594487,-1.3126663650212311

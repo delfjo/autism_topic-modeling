@@ -1,0 +1,54 @@
+topic,label,count_autism,count_autisminwomen,share_autism,share_autisminwomen,share_diff,log_ratio
+0,"diagnosis, autism, autistic, diagnosed, assessment, told, say, adhd, said, traits",1260,1043,0.3933812051201998,0.3430921052631579,0.050289099857041886,0.19733156386880307
+6,"son, aba, year old, daughter, school, old, speech, old son, child, year",105,23,0.032781767093349984,0.007565789473684211,0.025215977619665774,2.1151844215147753
+3,"special, interests, special interests, characters, games, watching, hobbies, movies, fan, enjoy",104,61,0.03246955978769903,0.02006578947368421,0.012403770314014823,0.6943224412299589
+30,"character, film, characters, movie, fictional, represent, favourite, symbol, scene, scenes",69,29,0.021542304089915705,0.009539473684210526,0.012002830405705179,1.1751067296619262
+36,"brother, bedroom, sibling, younger, room, mr, brothers, younger brother, screamed, hes",40,9,0.012488292226038089,0.0029605263157894738,0.009527765910248615,2.0762789101395245
+29,"memory, dyspraxia, recall, short, math, processing, maths, brain, ability, remember",38,18,0.011863877614736186,0.0059210526315789476,0.005942824983157238,1.0025280018490872
+11,"boyfriend, partner, bf, doesn, husband, relationship, said, routine, sex, explaining",64,43,0.019981267561660944,0.014144736842105264,0.00583653071955568,0.4983529798468047
+31,"post, sub, banned, gt, posts, subreddit, reddit, rules, fellow autists, remove",33,14,0.010302841086481423,0.004605263157894736,0.005697577928586686,1.161513508001124
+18,"alcohol, weed, drunk, drink, smoking, traveling, smoke, drinking, travel, substances",31,13,0.00967842647517952,0.0042763157894736845,0.005402110685705835,1.178215843830052
+25,"discord, server, discord server, subreddit, blog, chat, reddit, join, sub, community",32,14,0.009990633780830472,0.004605263157894736,0.0053853706229357355,1.117123764113069
+13,"dating, date, relationships, relationship, nt, partner, wondering common, autistic woman, autistic people, autistic person",54,35,0.01685919450515142,0.011513157894736841,0.00534603661041458,0.5502122784985553
+41,"books, recommendations, book, resources, education, recommend, educational, autistic burnout, neurodiversity, story",46,29,0.014361536059943803,0.009539473684210526,0.004822062375733276,0.5901777121588809
+5,"words, speech, speaking, word, speak, language, phrases, repeat, sentence, sentences",62,47,0.01935685295035904,0.015460526315789473,0.0038963266345695656,0.32423620210236476
+23,"faces, blindness, face, ugly, facial, look, attractive, expressions, look autistic, people look",37,24,0.011551670309085233,0.007894736842105263,0.0036569334669799697,0.5490805458598607
+39,"podcast, videos, channel, youtube, recommendations, creator, british, lecture, youtube channel, video",20,8,0.0062441461130190445,0.002631578947368421,0.0036125671656506235,1.2462585295759263
+27,"support needs, support, needs, lvl, low support, need support, high support, lower support, low, individuals",28,20,0.008741804558226662,0.006578947368421052,0.0021628571898056094,0.4100201043136922
+49,"ego, thoughts, gt, cbt, model, cognitive, id, thought process, trees, thinking",23,16,0.007180768029971901,0.005263157894736842,0.0019176101352350594,0.4481362925705481
+21,"sleep, asleep, sleeping, wake, fall asleep, hours sleep, night, hours, insomnia, nightmares",24,18,0.007492975335622854,0.0059210526315789476,0.0015719227040439064,0.3396339170744516
+19,"eye, eye contact, contact, eyes, make eye, face, look, making eye, rolling, expressions",21,16,0.006556353418669997,0.005263157894736842,0.0012931955239331551,0.31691089087884977
+45,"dad, parent, teddy, eat, son, parents, uncle, child, security, parenting",31,27,0.00967842647517952,0.008881578947368421,0.0007968475278110985,0.12394296142305283
+42,"tough, kind things, feel burden, yesterday went, improve, friends want, comfort zone, aren really, kind feel, birthday party",19,16,0.005931938807368093,0.005263157894736842,0.0006687809126312508,0.17254414049322342
+-1,"minutes, phd, saying ll, keeping track, don spend, actually mean, ex boyfriend, people person, agent, disney",6,4,0.0018732438339057135,0.0013157894736842105,0.000557454360221503,0.5092839476932878
+48,"guy, crush, blah, date, asked wanted, blah blah, said yes, manipulate, manipulation, outright",18,16,0.00561973150171714,0.005263157894736842,0.0003565736069802983,0.09455513770750767
+37,"make friends, friends, friendships, friendship, hang, making friends, group, friend, friends autistic, meet",39,36,0.012176084920387137,0.011842105263157895,0.0003339796572292414,0.04012140162751386
+50,"smile, pictures, photos, smiling, face, expressions, hardly, cute, smiled, genuine",9,8,0.00280986575085857,0.002631578947368421,0.00017828680349014914,0.09453775481237743
+34,"bullied, bullying, school, fandom, bullies, class, high school, behaviour, girls, friends",30,32,0.009366219169528567,0.010526315789473684,-0.0011600966199451172,-0.16844490483596286
+16,"jobs, job, remote, career, work, degree, service, services, friendly, apply",55,57,0.017171401810802372,0.01875,-0.0015785981891976268,-0.12687570190089068
+33,"loneliness, lonely, feel lonely, friends, close friends, isolated, don feel, friendships, introvert, close",39,42,0.012176084920387137,0.01381578947368421,-0.0016397045532970736,-0.18225361713334096
+9,"rfk, records, data, federal, medical, government, outdated, fight, sign, news",29,33,0.009054011863877614,0.010855263157894738,-0.0018012512940171234,-0.26173916098837774
+47,"bpd, bipolar, misdiagnosed, borderline, epilepsy, personality disorder, disorders, swings, disorder, asd",26,31,0.008117389946924758,0.010197368421052632,-0.002079978474127874,-0.329072818959269
+26,"joke, laugh, jokes, laughing, funny, joking, sarcasm, hit hard, season, smile",17,23,0.005307524196066188,0.007565789473684211,-0.002258265277618023,-0.5113704681838104
+51,"friend group, play games, online friend, play, want friend, making friends, really lonely, having fun, gym, friends",9,16,0.00280986575085857,0.005263157894736842,-0.002453292143878272,-0.9051882112287079
+38,"moving, apartment, boxes, furniture, moved, house, room, packed, lease, bed",12,20,0.003746487667811427,0.006578947368421052,-0.0028324597006096253,-0.8121523136234073
+28,"job, jobs, retail, customer, company, job good, working, offer, need job, ideal",20,28,0.0062441461130190445,0.009210526315789473,-0.0029663802027704283,-0.5607048994614708
+22,"eat, eating, foods, food, hungry, hunger, arfid, weight, drink, meals",17,26,0.005307524196066188,0.008552631578947369,-0.0032451073828811813,-0.6882262307022617
+12,"romantic, flirting, flirt, romantically, romantic partner, romance, imagination, romantic relationship, attraction, flirty",21,30,0.006556353418669997,0.009868421052631578,-0.0033120676339615813,-0.5898518044001072
+46,"masking, mask, authentic, masks, authentic self, know mask, paint, aloof, different person, don mask",23,32,0.007180768029971901,0.010526315789473684,-0.0033455477595017826,-0.5517266709281657
+15,"angry, anger, emotions, upset, tone, calm, sensitive, feel angry, reactions, mad",39,49,0.012176084920387137,0.01611842105263158,-0.003942336132244444,-0.40463112180934324
+43,"grief, death, dad, family, grandfather, passed, grandma, grieving, cried, passed away",14,26,0.004370902279113331,0.008552631578947369,-0.004181729299834038,-0.9682759147459278
+20,"medication, meds, medications, anxiety, taking, hormones, tics, pills, panic, effects",35,46,0.010927255697783328,0.015131578947368421,-0.004204323249585093,-0.46959473256453593
+24,"friend, friendship, hang, friends, text, cause, best friend, hung, sad, girl",37,49,0.011551670309085233,0.01611842105263158,-0.004566750743546347,-0.4805735709366386
+44,"unmasking, unmask, unmasked, masking, masking don, mask, shame, clay, realized, consciously",9,23,0.00280986575085857,0.007565789473684211,-0.00475592372282564,-1.428666755313392
+32,"social, socialise, social interactions, socialising, interactions, social skills, tutor, talk people, social media, skills",37,51,0.011551670309085233,0.016776315789473684,-0.005224645480388451,-0.5382855589680539
+40,"meltdown, meltdowns, pain, having meltdown, meltdowns feel, self harm, having meltdowns, harm, crying, dbt",19,35,0.005931938807368093,0.011513157894736841,-0.005581219087368749,-0.956590093358939
+14,"dog, animals, cat, cats, puppy, animal, stuffed, pet, pets, vet",18,36,0.00561973150171714,0.011842105263157895,-0.006222373761440755,-1.0752176001520721
+10,"therapist, therapy, therapists, psychologist, sessions, disrespectful, frustrated, professional, session, psychiatrist",39,57,0.012176084920387137,0.01875,-0.006573915079612863,-0.6227987303409807
+2,"world, life, species, does feel, guilty, feeling, miss, born, decision, tiring",69,89,0.021542304089915705,0.029276315789473685,-0.00773401169955798,-0.4425437575949275
+8,"women, woman, gender, internalized, men, trans, wife, identity, groups, girls",18,42,0.00561973150171714,0.01381578947368421,-0.008196057971967069,-1.2975926189129268
+17,"meltdown, water, meltdowns, crying, attack, morning, embarrassment, bottle, candy, stressed",12,37,0.003746487667811427,0.012171052631578947,-0.00842456496376752,-1.699576841457727
+35,"diagnosis, fragile, getting diagnosed, diagnosed, doctor, official, doctors, diagnosed late, procedures, diagnosed diagnosed",31,58,0.00967842647517952,0.019078947368421053,-0.009400520893241534,-0.9790637190477434
+7,"relationship, partner, husband, boyfriend, love, ex, married, sex, don want, marriage",38,76,0.011863877614736186,0.025,-0.013136122385263816,-1.0752885822102436
+4,"dating, men, date, sex, relationship, relationships, women, romantic, dates, rejection",45,88,0.01404932875429285,0.02894736842105263,-0.014898039666759781,-1.0428781502738391
+1,"job, work, burnout, working, jobs, day, week, hours, career, home",232,321,0.07243209491102091,0.10559210526315789,-0.033160010352136976,-0.5437947115200864
