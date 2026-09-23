@@ -29,7 +29,7 @@ TOPIC_LABELS = {
     18: "Fidget toys",
     19: "Temperature sensitivity",
     20: "Meltdowns and frustrations",
-    21: "Communication and AI",
+    21: "Communication",
 }
 
 ALWAYS_EXCLUDED_TOPICS = {-1, 0}
